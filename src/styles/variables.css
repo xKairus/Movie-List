@@ -1,0 +1,39 @@
+:root {
+  --clr-bg-base: #fff;
+  --clr-bg-second: #fff1da;
+  --clr-bg-third: #fff1da;
+
+  --clr-tp-base: #14183e;
+  --clr-tp-second: #5e6282;
+  --clr-tp-third: #5e6282;
+
+  --clr-link-base: #eb3535;
+  --clr-link-second: #eb3535;
+  --clr-link-third: #eb3535;
+
+  --clr-acc-base: #df6951;
+  --clr-acc-second: #f0bb1f;
+  --clr-acc-third: #006380;
+
+  --clr-btn-text: #ffffff;
+  --clr-btn-base: #df6951;
+  --clr-btn-second: #f0bb1f;
+  --clr-btn-third: #006380;
+
+  --fs-h1: 2.25rem;
+  --fs-h2: 2rem;
+  --fs-h3: 1.75rem;
+  --fs-h4: 1.5rem;
+  --fs-h5: 1.25rem;
+  --fs-h6: 1.125rem;
+
+  --fs-smallest: 0.75rem;
+  --fs-small: 0.75rem;
+  --fs-base: 1.125rem;
+  --fs-big: 2rem;
+  --fs-biggest: 2rem;
+
+  --ff-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ff-second: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ff-third: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

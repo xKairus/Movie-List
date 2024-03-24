@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: var(--fs-base);
+  font-family: var(--ff-base);
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--clr-tp-base);
+  background-color: var(--clr-bg-base);
+}
+
+a {
+  color: var(--clr-link-base);
+}
+
+ul {
+  list-style: none;
+}
